@@ -1,6 +1,5 @@
-The Big O of Methods 1 and 2 form the workbook. P 107-110
+The Big O of Methods 1 and 2 form the workbook
 
-  Method 1 = O(n^2)
-  Method 2 = O(n)
-  Method 3 = O(n^2)
-  Extra = O(n^3)
+  Method 1 = Run time complexiry is quadratic O(n^2) cause i< a.length which is n and j<(a.length-i) which is n
+  Method 2 = Run time is linear O(n) cause we on;y use i < a.length once, which is n
+  Method 3 = Run time is quadratic O(n^2) cause i< a.length * a.length wich is n*n
